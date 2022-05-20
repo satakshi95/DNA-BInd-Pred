@@ -40,6 +40,8 @@ This training (x\_train) and testing data (x\_test) was also preprocessed and st
 
 1 for DNA binding protein sequences and -1 for non DNA binding protein sequences.
 
+**Dataset Link** : https://www.kaggle.com/c/mlba1/overview/description
+
 **References** :-
 
 https://protlearn.readthedocs.io/en/latest/introduction.html
